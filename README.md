@@ -11,6 +11,9 @@
 
  <h1> 🧊 3D Scripts </h1>
  </t> 1. Player 이동 구현하기
+
+ <h1> 🟦 2D Scripts </h1>
+ </t> 1. Player 이동 구현하기
 </pre></div>
 
   
