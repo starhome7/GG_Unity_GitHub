@@ -13,7 +13,7 @@
 ---
 
  # 🧊 3D Scripts 
- <a href="www.naver.com" > <h3>1.Player 이동 구현하기</h3> </a>
+ ### [1.Player 이동 구현하기](www.naver.com)
  
 
 
