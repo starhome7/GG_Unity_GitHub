@@ -2,12 +2,15 @@
  
 
 <div align = "center"><pre>
-  <h1> :computer:Introduction </h1>
+
+ ---
+ 
+ # 💻 Introduction
   GG_Unity_GitHub페이지는
   GG 동아리 부원들이 활용할 수 있도록 카테고리별로 유니티 스크립트를 저장하는 공간입니다.<br><br>
 
 
-
+---
 
  # 🧊 3D Scripts 
  [1.Player 이동 구현하기](#2d)
