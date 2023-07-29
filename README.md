@@ -25,7 +25,7 @@
 
 
  # 📝 Unity 기초지식
-  ### [1.유니티 유용한 단축키](https://github.com/starhome7/GG_Unity_GitHub/blob/main/3D%20Scripts/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
+  ### [1.유니티 유용한 단축키](https://github.com/starhome7/GG_Unity_GitHub/blob/a308e72ad731033d3770bdc0caf4d0b0b1b261f7/Unity_Basic/1.%EC%9C%A0%EB%8B%88%ED%8B%B0%20%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EB%8B%A8%EC%B6%95%ED%82%A4/1.%EC%9C%A0%EB%8B%88%ED%8B%B0%20%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EB%8B%A8%EC%B6%95%ED%82%A4.md)
   ### [2. Scene과 Game의 차이 ](https://github.com/starhome7/GG_Unity_GitHub/blob/main/3D%20Scripts/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
   ### [3.Rigidbody란?](https://github.com/starhome7/GG_Unity_GitHub/blob/main/3D%20Scripts/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
   ### [4. Collider란?](https://github.com/starhome7/GG_Unity_GitHub/blob/main/3D%20Scripts/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
