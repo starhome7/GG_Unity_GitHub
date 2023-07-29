@@ -17,14 +17,23 @@
  
 
 
-# 🟦 2D Scripts </h1>
- </t> 1. Player 이동 구현하기
+# 🟦 2D Scripts
+ ### [1.Player 이동 구현하기](https://github.com/starhome7/GG_Unity_GitHub/blob/main/3D%20Scripts/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
+ 
 
 
 
 
- # 2d
+ # 📝 Unity 기본지식
+  ### [1.유니티 유용한 단축키](https://github.com/starhome7/GG_Unity_GitHub/blob/main/3D%20Scripts/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
+  ### [2. Scene과 Game의 차이 ](https://github.com/starhome7/GG_Unity_GitHub/blob/main/3D%20Scripts/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
+  ### [3.Rigidbody란?](https://github.com/starhome7/GG_Unity_GitHub/blob/main/3D%20Scripts/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
+  ### [4. Collider란?](https://github.com/starhome7/GG_Unity_GitHub/blob/main/3D%20Scripts/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
 </pre></div>
+
+
+
+
 
 
   
