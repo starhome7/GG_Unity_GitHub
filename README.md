@@ -38,7 +38,7 @@
 
  # 📝 Unity 기초지식
   ### [1.유니티 유용한 단축키](https://github.com/starhome7/GG_Unity_GitHub/blob/dcb1ecd0655f4d645dca62a71181181df2947943/Unity_Basic/1.%EC%9C%A0%EB%8B%88%ED%8B%B0%20%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EB%8B%A8%EC%B6%95%ED%82%A4/1.%EC%9C%A0%EB%8B%88%ED%8B%B0%20%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EB%8B%A8%EC%B6%95%ED%82%A4.md)
-  ### [2. Scene과 Game의 차이 ](https://github.com/starhome7/GG_Unity_GitHub/blob/23bbe2c11cb8a7188b5cc231cce8524cdfbcdd3c/Unity_Basic/2.%20Scene%EA%B3%BC%20Game%EC%9D%98%20%EC%B0%A8%EC%9D%B4/2.%20Scene%EA%B3%BC%20Game%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+  ### [2. Scene과 Game의 차이 ](https://github.com/starhome7/GG_Unity_GitHub/blob/eeac98ba3204e4a8af483753fac4a164807dead5/Unity_Basic/2.%20Scene%EA%B3%BC%20Game%EC%9D%98%20%EC%B0%A8%EC%9D%B4/2.%20Scene%EA%B3%BC%20Game%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
   ### [3.Rigidbody란?](https://github.com/starhome7/GG_Unity_GitHub/blob/23bbe2c11cb8a7188b5cc231cce8524cdfbcdd3c/Unity_Basic/3.Rigidbody%EB%9E%80/3.Rigidbody%EB%9E%80.md)
   ### [4. Collider란?](https://github.com/starhome7/GG_Unity_GitHub/blob/23bbe2c11cb8a7188b5cc231cce8524cdfbcdd3c/Unity_Basic/4.%20Collider%EB%9E%80/4.%20Collider%EB%9E%80.md)
 </div>
