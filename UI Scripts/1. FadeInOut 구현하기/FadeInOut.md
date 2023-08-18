@@ -27,7 +27,7 @@ FadeEffect로 화면을 반복적으로 FadeInOut 하게 만들수 있습니다.
 
 >1. UI에서 Image를 생성후 화면크기만큼 조정 후 Image색을 조절합니다.
 
-![image](./Player_Rigid_Move_Pic/Player_Rigid_Move1.png)
+![image](./FadeInOut_Pic/Fade1.PNG)
 
 >2. 생성한 Image에 FadeInOut 스크립트를 적용합니다
  
