@@ -16,7 +16,7 @@ FadeEffect로 화면을 반복적으로 FadeInOut 하게 만들수 있습니다.
 
 # 📓 Script Download
 
-[FadeInOut 스크립트 추가중](https://github.com/starhome7/GG_Unity_GitHub/tree/f21b6dd298b05438b2fd7c11034985ea0658ee13/3D%20Scripts/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/Player_Rigid_Move_Script)
+[FadeInOut 스크립트][(https://github.com/starhome7/GG_Unity_GitHub/tree/f21b6dd298b05438b2fd7c11034985ea0658ee13/3D%20Scripts/1.%20Player%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/Player_Rigid_Move_Script)](https://github.com/starhome7/GG_Unity_GitHub/blob/main/UI%20Scripts/1.%20FadeInOut%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/FadeInOut_Script/FadeInOut.cs)
 <br>
 
 ---
