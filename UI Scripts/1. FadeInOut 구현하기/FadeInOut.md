@@ -36,7 +36,7 @@ FadeEffect로 화면을 반복적으로 FadeInOut 하게 만들수 있습니다.
 >3. Fade Time(작동 시간)과 Fade State(기능), Fade Curve(FadeInOut의 속도), LoopNum(반복하고 싶은 횟수) 를 원하는 만큼 조정합니다.<br>
 (Fade Curve가 0에 가까울 수록 느리고 1에가까울 수록 빨라집니다.)
 
-![image](./FadeInOut_Pic/Fade3.PNG)
+![image](./FadeInOut_Pic/Fade3.png)
 
 
 ---
