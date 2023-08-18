@@ -31,21 +31,13 @@ FadeEffect로 화면을 반복적으로 FadeInOut 하게 만들수 있습니다.
 
 >2. 생성한 Image에 FadeInOut 스크립트를 적용합니다
  
-![image](./Player_Rigid_Move_Pic/Player_Rigid_Move2.png)
+![image](./FadeInOut_Pic/Fade2.PNG)
 
 >3. Fade Time(작동 시간)과 Fade State(기능), Fade Curve(FadeInOut의 속도), LoopNum(반복하고 싶은 횟수) 를 원하는 만큼 조정합니다.<br>
 (Fade Curve가 0에 가까울 수록 느리고 1에가까울 수록 빨라집니다.)
 
-![image](./Player_Rigid_Move_Pic/Player_Rigid_Move3.png)
+![image](./FadeInOut_Pic/Fade3.PNG)
 
-
->4. 플레이를 눌러서 플레이어를 움직여보면 플레이어가 넘어져서 더 이상 움직일 수 없게됩니다.
-
-![image](./Player_Rigid_Move_Pic/Player_Rigid_Move4.png)
-
->5. 플레이어의 Rigidbody의 Constraints(제약조건)에서 X/Y/Z 축 방향으로의 Rotation을 Freeze 해주면 4번 문제를 해결할 수 있습니니다.
-
-![image](./Player_Rigid_Move_Pic/Player_Rigid_Move5.png)
 
 ---
 
