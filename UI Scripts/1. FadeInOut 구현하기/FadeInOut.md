@@ -45,7 +45,7 @@ FadeEffect로 화면을 반복적으로 FadeInOut 하게 만들수 있습니다.
 
 # ⚠️ 주의사항
 
->1. Fade State를 Fade Effect로 할때 Fade Time은 FadeIn -> FadeOut으로 전환되는 시스템입니다
+>1. Fade State를 Fade Effect로 할때 Fade Effect의 원리는 FadeIn -> FadeOut으로 전환되는 시스템입니다
 >2. Fade Effect의 FadeTime은 FadeIn 후 FadeOut까지의 시간입니다
 
 <br><br>
