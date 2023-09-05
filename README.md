@@ -22,6 +22,8 @@
 
 <t>**4. 질문 및 문의사항은 작성자 또는 권한이 있는 부원들에게 해주시면 됩니다.**
 
+<t>**5. "이 내용에 대해 다뤄줬으면 좋겠다.", "~가 궁금하다."라는 것들이 있다면 언제든지 간부 및 팀장에게 말씀해주시면 빠른시일내에 추가하도록 하겠습니다.**
+
 ---
 
  # 🧊 3D Scripts 
@@ -44,7 +46,8 @@
   ### [5.Texture, Material, Shader란](https://github.com/starhome7/GG_Unity_GitHub/blob/main/Unity_Basic/5.%20Texture%2C%20Material%2C%20Shader%EB%9E%80/5.%20Texture%2C%20Material%2C%20Shader%EB%9E%80.md)
   ### [6. 애니메이션이란](https://github.com/starhome7/GG_Unity_GitHub/blob/main/Unity_Basic/6.%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%B4%EB%9E%80/6.%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%B4%EB%9E%80.md)
    ### [7. Prefab이란](https://github.com/starhome7/GG_Unity_GitHub/blob/main/Unity_Basic/7.Prefab%EC%9D%B4%EB%9E%80/7.%20Prefab%EC%9D%B4%EB%9E%80.md)
-  
+   ### [8. GitHub Desktop 사용법](https://github.com/starhome7/GG_Unity_GitHub/blob/main/Unity_Basic/8.%20GitHub%20Desktop%20%EC%82%AC%EC%9A%A9%EB%B2%95/8.%20GitHub%20Desktop%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
+### [9. class란](https://github.com/starhome7/GG_Unity_GitHub/blob/main/Unity_Basic/9.%20class%EB%9E%80/9.%20class%EB%9E%80.md)
 </div>
 
 
