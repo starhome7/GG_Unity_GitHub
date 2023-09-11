@@ -1,9 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=GG%20Unity%20GitHub&fontSize=95" />
- 
 
-<div align = "center">
+ <div align = "center">
 
-
+ <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=GG%20GitHub&fontSize=95" />
  ---
  
  # 💻 Introduction
