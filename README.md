@@ -29,9 +29,13 @@
 ## 2️⃣3️⃣ 23년도 상반기
 ### [1.NeoStar - FireMate](https://github.com/starhome7/GG_Unity_GitHub/tree/main/Games/23%EB%85%84%20%EC%83%81%EB%B0%98%EA%B8%B0%20%EA%B2%8C%EC%9E%84%EB%AA%A9%EB%A1%9D/NeoStar_FireMate)
 
-팀장 : 19 김성우
-팀원 : 19 공희진, 21 배아빈, 22 김유민, 22 정예림, 23 이진솔 
- 
+<pre align = "left">
+ 게임 한줄 소개 : "불멍"을 주제로 한 선택지 시뮬레이션
+ 팀장 : 19 김성우
+ 팀원 : 19 공희진, 21 배아빈, 22 김유민, 22 정예림, 23 이진솔
+ <img src=""/>
+</pre>
+
 ## 🚢 23년도 NC soft 게임잼
 ### [1.NeoStar - VAE](https://github.com/starhome7/GG_Unity_GitHub/tree/main/Games/23%EB%85%84%20NCsoft%20%EA%B2%8C%EC%9E%84%EC%9E%BC/1.%20VAE)
 
