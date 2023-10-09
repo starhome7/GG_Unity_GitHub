@@ -62,7 +62,7 @@
  <img src="https://github.com/starhome7/GG_Unity_GitHub/blob/main/Games/23%EB%85%84%20%EC%83%81%EB%B0%98%EA%B8%B0%20%EA%B2%8C%EC%9E%84%EB%AA%A9%EB%A1%9D/NeoStar_FireMate/FireMate.png"/>
 </pre>
 
-## 🚢 23년도 NC soft 게임잼
+## 🚢 23년도 NC soft 게임잼 (주제 : 배)
 ### [1.NeoStar - VAE](https://github.com/starhome7/GG_Unity_GitHub/tree/main/Games/23%EB%85%84%20NCsoft%20%EA%B2%8C%EC%9E%84%EC%9E%BC/1.%20VAE)
 <pre align = "left">
  게임 한줄 소개 : 자원을 관리하면서 맵 곳곳에 숨겨진 보물섬을 탐험하자
