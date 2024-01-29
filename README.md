@@ -7,7 +7,7 @@
  
  # 💻 Introduction
   GG_GitHub 페이지는 GG 동아리 부원들이 활용할 수 있도록 <br>카테고리별로 유니티 및 언리얼 정보들을 저장하는 공간입니다.<br><br>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstarhome7%2FGG_Unity_GitHub%2Ftree%2Fmain&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98+&edge_flat=false)](https://hits.seeyoufarm.com)
 # 📣 Notice
 
 <t>**1. GG_GitHub 페이지는 누구나 열람 및 다운로드 가능하지만 수정권한은 간부 및 팀장들에게 부여하였습니다.
