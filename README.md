@@ -116,7 +116,7 @@
 
 
 ## 🎮 24년도 울산 게임잼 2차 (후원사 : StoryWiz 주제 : 자유)
-### [1.삼김 - BBB(뷔페에서 본전뽑는 방법](Games/24년 게임잼 2차(후원사_StoryWiz)/1. BBB(뷔페에서 본전뽑는 방법))
+### [1.삼김 - BBB(뷔페에서 본전뽑는 방법](https://github.com/starhome7/GG_Unity_GitHub/tree/main/Games/24%EB%85%84%20%EA%B2%8C%EC%9E%84%EC%9E%BC%202%EC%B0%A8(%ED%9B%84%EC%9B%90%EC%82%AC_StoryWiz)/1.%20BBB(%EB%B7%94%ED%8E%98%EC%97%90%EC%84%9C%20%EB%B3%B8%EC%A0%84%EB%BD%91%EB%8A%94%20%EB%B0%A9%EB%B2%95))
 <pre align = "left">
  게임 한줄 소개 : 뷔페 음식들을 접시 위에 가득 쌓아서 최대한 본전을 뽑아보자!
  팀장 : 19 김성우
