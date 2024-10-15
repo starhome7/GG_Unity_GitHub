@@ -95,14 +95,14 @@
 </pre>
 
 ## 2️⃣4️⃣ 24년도 개발된 게임
-### [1.NeoStar - Yacht Heroes](https://github.com/starhome7/GG_Unity_GitHub/tree/main/Games/23%EB%85%84%20%EC%83%81%EB%B0%98%EA%B8%B0%20%EA%B2%8C%EC%9E%84%EB%AA%A9%EB%A1%9D/NeoStar_FireMate)
+### [1.NeoStar - Yacht Heroes](Games/24년 게임목록/Yacht_Heroes)
 
 <pre align = "left">
  게임 한줄 소개 : "요트 다이스"를 기반으로 한 1인용 전략 보드게임
  팀장 : 19 김성우
  팀원 : 21 강상빈, 22 김준모, 23 류가은, (전)23 이진솔
  
- <img src="https://github.com/starhome7/GG_Unity_GitHub/blob/main/Games/23%EB%85%84%20%EC%83%81%EB%B0%98%EA%B8%B0%20%EA%B2%8C%EC%9E%84%EB%AA%A9%EB%A1%9D/NeoStar_FireMate/FireMate.png"/>
+ <img src="Games/24년 게임목록/Yacht_Heroes/시작화면.png"/>
 </pre>
 
 ## 🎮 24년도 울산 게임잼 1차 (후원사 : NC 주제 : 자유)
@@ -117,12 +117,12 @@
 
 ## 🎮 24년도 울산 게임잼 2차 (후원사 : StoryWiz 주제 : 자유)
 ### [1.삼김 - BBB(뷔페에서 본전뽑는 방법]
-(https://github.com/starhome7/GG_Unity_GitHub/tree/main/Games/23%EB%85%84%20NCsoft%20%EA%B2%8C%EC%9E%84%EC%9E%BC/1.%20VAE)
+(Games/24년 게임잼 2차(후원사_StoryWiz)/1. BBB(뷔페에서 본전뽑는 방법))
 <pre align = "left">
  게임 한줄 소개 : 뷔페 음식들을 접시 위에 가득 쌓아서 최대한 본전을 뽑아보자!
  팀장 : 19 김성우
  팀원 : 21 김민아, 24 김시윤
- <img src="https://github.com/starhome7/GG_Unity_GitHub/blob/main/Games/23%EB%85%84%20NCsoft%20%EA%B2%8C%EC%9E%84%EC%9E%BC/1.%20VAE/VAE.png"/>
+ <img src="Games/24년 게임잼 2차(후원사_StoryWiz)/1. BBB(뷔페에서 본전뽑는 방법)/시작화면.png"/>
 </pre>
 <br>
 
