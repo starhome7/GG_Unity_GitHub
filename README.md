@@ -95,7 +95,7 @@
 </pre>
 
 ## 2️⃣4️⃣ 24년도 개발된 게임
-### [1.NeoStar - Yacht Heroes](Games/24년 게임목록/Yacht_Heroes)
+### [1.NeoStar - Yacht Heroes](https://github.com/starhome7/GG_Unity_GitHub/tree/main/Games/24%EB%85%84%20%EA%B2%8C%EC%9E%84%EB%AA%A9%EB%A1%9D/Yacht_Heroes)
 
 <pre align = "left">
  게임 한줄 소개 : "요트 다이스"를 기반으로 한 1인용 전략 보드게임
